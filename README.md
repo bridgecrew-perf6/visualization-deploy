@@ -43,7 +43,9 @@ pip3 install -r requirements.txt
 
 
 #测试
+
 1、在浏览器输入
+
 http://localhost:9090/
 
 2、在终端观察输出
